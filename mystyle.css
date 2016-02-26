@@ -1,0 +1,39 @@
+h2 {
+    color: black;
+}
+dt{
+	font-weight:bold;text-decoration:underline
+}
+ul.square {list-style-type: square;}
+#footer{background-color:gray;text-align:center;padding:2px;
+	
+}
+/* unvisited link */
+a:link {
+    color: blue;
+}
+
+/* visited link */
+a:visited {
+    color: red;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+/* selected link */
+a:active {
+    color: red;
+} 
+#content{
+	width:1000px;margin-left:auto;margin-right:auto;
+}
+h2{position:relative;margin:auto;text-align:center}
+.page{float:left;margin:20px 0 50px 50px}
+#phone{
+	position:relative;margin-left:auto
+}
+
+.page{font-size:2em;font-weight:bold}
